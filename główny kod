@@ -83,7 +83,7 @@ virtual void obrót ()
 }
 };
 
-class Trapez
+class Trapez:public Figura
 {
 virtual void rysuj ()
 {
