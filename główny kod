@@ -257,7 +257,6 @@ int main ()
   P1.wczytaj_P();
   cout << "objętość prostopadłościanu wynosi: " << P1.licz_objętość_P(); 
   
-  
   cout<<endl;
   cout<<"Obliczenie objętości sześcianu"<<endl;
   Sześcian S1;
